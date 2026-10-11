@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=ClickW — 20 Nokta
+Comment=İmleci oynatmadan 20 hedefe dokun
+Exec="@CMAKE_CURRENT_SOURCE_DIR@/Başlat.sh"
+Icon=@CMAKE_CURRENT_SOURCE_DIR@/clickw.svg
+Terminal=false
+Categories=Utility;Accessibility;
+StartupWMClass=clickw
