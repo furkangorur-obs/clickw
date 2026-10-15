@@ -6,4 +6,4 @@ Küçük, istenen kapsama yönelik değişiklikler yap. Kullanıcının çalış
 
 Commit mesajı yapılan işi açıklamalı; değişiklik raporunda neden, gerçek kontrol sonuçları ve kalan sınırlamalar bulunmalı. API davranışı veya kurulum değişirse ilgili belgeleri güncelle. Üretilmiş binary, günlük, yedek veya kullanıcı kaydını commit etme.
 
-Bu depo özeldir. Açık kaynak lisansı seçilmemiştir; lisans veya dış yayın kararını proje sahibi verir.
+Bu depo herkese açıktır. Açık kaynak lisansı seçilmemiştir; lisans veya dış yayın kararını proje sahibi verir.

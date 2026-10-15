@@ -1,5 +1,10 @@
 # Değişiklikler
 
+## Depo görünürlüğü — 2026-10-16
+
+- Kullanıcının açık isteğiyle dosya/geçmiş kontrolü sonrası depo herkese açıldı.
+- README, katkı ve devam belgelerindeki görünürlük bilgisi güncellendi. Uygulama davranışı değiştirilmedi.
+
 ## Başlangıç deposu — 2026-10-11
 
 - KDE Wayland üzerinde imleci oynatmadan hedef etkinleştirme.

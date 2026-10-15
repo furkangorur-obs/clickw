@@ -2,7 +2,7 @@
 
 ## Mevcut durum
 
-ClickW, CachyOS/KDE Wayland için çalışan C++17 masaüstü uygulamasıdır. Kaynak `main.cpp`, build CMake üzerinden yürür. İlk GitHub aktarımı kullanıcı tarafından özel `clickw` deposu olarak yetkilendirilmiştir. Sonraki yüklemelerde `docs/GITHUB_WORKFLOW.md` geçerlidir.
+ClickW, CachyOS/KDE Wayland için çalışan C++17 masaüstü uygulamasıdır. Kaynak `main.cpp`, build CMake üzerinden yürür. İlk GitHub aktarımı kullanıcı tarafından özel `clickw` deposu olarak yetkilendirilmiştir. 2026-10-16 tarihinde kullanıcının açık isteğiyle herkese açılmıştır. Kaynaklar ve tek commit’lik başlangıç geçmişi anahtar/token, özel ortam dosyası, kullanıcı verisi ve yedek açısından incelenmiş; yapılan kontrolde bu içerikler bulunmamıştır. Sonraki yüklemelerde `docs/GITHUB_WORKFLOW.md` geçerlidir.
 
 ## Tamamlanan işler
 

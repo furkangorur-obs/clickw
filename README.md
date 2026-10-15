@@ -55,4 +55,4 @@ Kontroller kendi test pencerelerini ve izole ayarlarını kullanır. Kısayol te
 - [GITHUB_WORKFLOW.md](docs/GITHUB_WORKFLOW.md): mevcut depoya güvenli yükleme.
 - [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md), [CHANGELOG.md](CHANGELOG.md).
 
-Depo özel olarak başlatılmıştır. Bir yayın/release paketi veya açık kaynak lisansı henüz oluşturulmamıştır.
+Depo herkese açıktır. Bir yayın/release paketi veya açık kaynak lisansı henüz oluşturulmamıştır.
